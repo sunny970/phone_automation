@@ -1,0 +1,25 @@
+test_case_name_01:
+  case_number_01:
+    username: "17883746355 "
+    password: "sdfsd"
+  case_number_02:
+    username: "1 7883746355"
+    password: "sdfsd"
+  case_number_03:
+    username: "1788474635534"
+    password: "sdfsd"
+
+
+test_case_name_02:
+  case_number_01:
+    username: "17883746355 "
+    password: "sdfsd"
+    number: "212343123"
+  case_number_02:
+    username: "1 7883746355"
+    password: "sdfsd"
+    number: "213234123"
+  case_number_03:
+    username: "1788474635534"
+    password: "sdfsd"
+    number: "2131233"

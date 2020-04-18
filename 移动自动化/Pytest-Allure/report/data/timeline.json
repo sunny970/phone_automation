@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-H1SEJMJ5",
+    "children" : [ {
+      "name" : "103672-MainThread",
+      "children" : [ {
+        "name" : "test_network_3g",
+        "uid" : "86bd56b84553e63f",
+        "parentUid" : "b99a31cf53bb84170d5ffbd810197763",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586088723375,
+          "stop" : 1586088728107,
+          "duration" : 4732
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mobile_display_input",
+        "uid" : "5c9b8015f80342ae",
+        "parentUid" : "b99a31cf53bb84170d5ffbd810197763",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586088708043,
+          "stop" : 1586088710328,
+          "duration" : 2285
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_network_2g",
+        "uid" : "ee99633c9b92ad4d",
+        "parentUid" : "b99a31cf53bb84170d5ffbd810197763",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586088690091,
+          "stop" : 1586088695122,
+          "duration" : 5031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search[你好,世界]",
+        "uid" : "8b4fe888392edfd2",
+        "parentUid" : "b99a31cf53bb84170d5ffbd810197763",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586088753622,
+          "stop" : 1586088757215,
+          "duration" : 3593
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'你好,世界'" ]
+      }, {
+        "name" : "test_search[hello word]",
+        "uid" : "717f7cc879e3c02",
+        "parentUid" : "b99a31cf53bb84170d5ffbd810197763",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586088741081,
+          "stop" : 1586088744076,
+          "duration" : 2995
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hello word'" ]
+      } ],
+      "uid" : "b99a31cf53bb84170d5ffbd810197763"
+    } ],
+    "uid" : "5bd31788fdee16cb3242441af41524e2"
+  } ]
+}

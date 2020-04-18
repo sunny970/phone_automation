@@ -1,0 +1,97 @@
+{
+  "uid" : "ee99633c9b92ad4d",
+  "name" : "test_network_2g",
+  "fullName" : "testcase.test_network.Test_Network#test_network_2g",
+  "historyId" : "0c52f2d2d9cf332004e2bf411bc1f87e",
+  "time" : {
+    "start" : 1586088690091,
+    "stop" : 1586088695122,
+    "duration" : 5031
+  },
+  "description" : "测试描述",
+  "descriptionHtml" : "<p>测试描述</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试描述",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "2G测试",
+      "time" : {
+        "start" : 1586088690091,
+        "stop" : 1586088695122,
+        "duration" : 5031
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "一级标题"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "二级标题"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_network"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Network"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-H1SEJMJ5"
+  }, {
+    "name" : "thread",
+    "value" : "103672-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_network"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "error_link",
+    "url" : "http://www.baidu.com",
+    "type" : "link"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee99633c9b92ad4d.json",
+  "parameterValues" : [ ]
+}

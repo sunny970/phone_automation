@@ -1,0 +1,5 @@
+test_search_play_song:
+  case_number:
+    input_words: "嚣张"
+  case_number1:
+    input_words: "嚣张"

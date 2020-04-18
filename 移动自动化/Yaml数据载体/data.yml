@@ -1,0 +1,56 @@
+
+
+#name: "hello"
+#age: "18"
+
+
+
+#  - "1"
+#  - "2"
+#  - "3"
+
+
+#{name:"hello",people:{age:"18",name:"zhangsan"}}
+
+#name: "hello"
+#people:
+#  age: "18"
+#  name: "zhangsan"
+
+
+#{name:"hello",people:[1,2,3]}
+#name: "hello"
+#people:
+#  - "1"
+#  - "2"
+#  - "3"
+
+
+#[1,2,[5,6,{name:"hello",age:"18",key1:[7,9],key2:[10,20],key3:{name:"li",age:"28"}}]]
+#- "1"
+#- "2"
+#-
+#  - "5"
+#  - "6"
+#  -
+#    name: "hello"
+#    age: "18"
+#    key1:
+#      - "7"
+#      - "9"
+#    key2:
+#      - "10"
+#      - "20"
+#    key3:
+#      name: "li"
+#      age: "28"
+
+#data: &info
+#  value: "hello"
+#date:
+#  value1: "number"
+#  <<: *info
+
+
+
+

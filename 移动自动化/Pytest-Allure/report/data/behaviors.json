@@ -1,0 +1,78 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "一级标题",
+    "children" : [ {
+      "name" : "二级标题",
+      "children" : [ {
+        "name" : "test_network_2g",
+        "uid" : "ee99633c9b92ad4d",
+        "parentUid" : "e1e8da706a7fc056a0ceb851497fd287",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586088690091,
+          "stop" : 1586088695122,
+          "duration" : 5031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e1e8da706a7fc056a0ceb851497fd287"
+    } ],
+    "uid" : "3ab424e51b4c92a3f317d44ef6c84db2"
+  }, {
+    "name" : "test_mobile_display_input",
+    "uid" : "5c9b8015f80342ae",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1586088708043,
+      "stop" : 1586088710328,
+      "duration" : 2285
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_network_3g",
+    "uid" : "86bd56b84553e63f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1586088723375,
+      "stop" : 1586088728107,
+      "duration" : 4732
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_search[hello word]",
+    "uid" : "717f7cc879e3c02",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1586088741081,
+      "stop" : 1586088744076,
+      "duration" : 2995
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'hello word'" ]
+  }, {
+    "name" : "test_search[你好,世界]",
+    "uid" : "8b4fe888392edfd2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1586088753622,
+      "stop" : 1586088757215,
+      "duration" : 3593
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'你好,世界'" ]
+  } ]
+}

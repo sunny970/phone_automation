@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Apr 05 20:11:30 CST 2020","Sun Apr 05 20:11:35 CST 2020","5031","testcase","test_network","Test_Network","","","test_network_2g","测试描述"
+"passed","Sun Apr 05 20:11:48 CST 2020","Sun Apr 05 20:11:50 CST 2020","2285","testcase","test_display","Test_Display","","","test_mobile_display_input",""
+"passed","Sun Apr 05 20:12:21 CST 2020","Sun Apr 05 20:12:24 CST 2020","2995","testcase","test_search","TestSearch","","","test_search[hello word]",""
+"passed","Sun Apr 05 20:12:03 CST 2020","Sun Apr 05 20:12:08 CST 2020","4732","testcase","test_network","Test_Network","","","test_network_3g",""
+"passed","Sun Apr 05 20:12:33 CST 2020","Sun Apr 05 20:12:37 CST 2020","3593","testcase","test_search","TestSearch","","","test_search[你好,世界]",""

@@ -1,0 +1,6 @@
+test_search:
+  - "hello"
+  - "你好"
+test_search1:
+  - "hello word"
+  - "你好,世界"
